@@ -1,1 +1,3 @@
 Welcome to my GitHub profile!
+
+Total neophyte w/r/t GitHub, but here I go learning...
